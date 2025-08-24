@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "name": "Erfan Goodarzi",
+  "description": "Front end developer",
+  "sections": [
+    {
+      "title": "About",
+      "type": "text",
+      "content": "Self-taught front-end developer with 3+ years of experience in creating responsive, visually appealing, and user-friendly web applications. Proficient in HTML, CSS, JS, React, and other web development tools. Skilled at implementing design concepts into pixel-perfect and responsive user interfaces. Seeking an opportunity to develop my skills and abilities."
+    },
+    {
+      "title": "Socials",
+      "type": "links",
+      "links": [
+        {
+          "title": "GitHub",
+          "url": "https://github.com/erfan-goodarzi"
+        },
+        {
+          "title": "Telegram",
+          "url": "https://t.me/yellow-dark88"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/erfang-goodarzi/"
+        }
+      ]
+    },
+    {
+      "title": "Experiences",
+      "type": "list",
+      "items": [
+        {
+          "title": "RyNex",
+          "description": "Front end developer",
+          "url": "http://rynex.ir/",
+          "date": "Dec 2023 - Present"
+        },
+        {
+          "title": "NorthCamp",
+          "description": "Front end developer",
+          "date": "May 2021 - Sep 2023"
+        }
+      ]
+    },
+    {
+      "title": "Organizations",
+      "type": "list",
+      "items": [
+        {
+          "title": "FullstacksJS",
+          "description": "An open-source community focused on knowledge sharing, exploring, and enhancing developer experience",
+          "url": "https://github.com/fullstacksjs"
+        }
+      ]
+    }
+  ]
+}
