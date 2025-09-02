@@ -1,7 +1,8 @@
 {
   "version": 1,
-  "name": "Erfan Goodarzi",
+  "naem": "Erfan Goodarzi",
   "description": "Front end developer",
+  "style": { "theme": "light" },
   "sections": [
     {
       "title": "About",
